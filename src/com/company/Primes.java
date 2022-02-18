@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Primes {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.print("Введите число меньше которого будут простые числа: ");
+        System.out.print(" Введите число меньше которого будут простые числа: ");
         int maxNumber = in.nextInt();
         System.out.println("Prime Numbers: ");
 
